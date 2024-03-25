@@ -27,3 +27,11 @@ Added custom command.
 ### UI Screen
 
 The screens I have taken from [Multi-step form by Frontend Mentor](https://www.frontendmentor.io/challenges/multistep-form-YVAnSdqQBJ)
+
+### Challenge I faced:
+
+1. As I rendered my component in Cypress screen, the width was less.
+   How to adjust width & height of screen which is rendering your component?
+   ![alt text](image-1.png)
+
+2. When working with Tailwind, it's crucial to import the styles in the JavaScript file where components are rendered for Cypress testing. For more details, visit [link](https://docs.cypress.io/guides/component-testing/styling-componentst.)
