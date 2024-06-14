@@ -8,6 +8,26 @@
 - Cypress
 - Tailwind
 
+### Guide to run cypress
+#### Clone project
+``` bash
+git clone https://github.com/Shwetzksk/multi-step-form-cypress-testing.git
+```
+#### Install packages
+``` bash
+pnpm i
+```
+
+#### Run app locally
+``` bash
+pnpm run dev
+```
+
+#### Run cypress
+``` bash
+npx cypress open
+```
+
 ### What I learnt?
 
 My goal of creating this project was to practice Cypress that I learnt from [Freecodecamp](https://www.youtube.com/watch?v=u8vMu7viCm8&t=134s).
